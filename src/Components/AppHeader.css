@@ -1,0 +1,26 @@
+.head-text{
+    font-size: 35px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    color: #ffff !important;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+   
+}
+
+.AppHeader{
+    height: 50px;
+    display: flex;
+    background-color: #3ab1c8;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 20px 16px 12px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
